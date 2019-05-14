@@ -3,6 +3,8 @@
 
 ## Install the dependencies 
 
+To install all the dependencies, in the project directory run:
+
 ### `npm install`
 
 
