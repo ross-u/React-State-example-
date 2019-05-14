@@ -1,7 +1,9 @@
 # React | State - (lecture example)
 
 
-### Install the dependencies `npm install`
+## Install the dependencies 
+
+### `npm install`
 
 
 ## Available Scripts
