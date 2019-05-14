@@ -30,4 +30,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 
-[Binding event handlers in React components](
+[Binding event handlers in React components](https://medium.freecodecamp.org/this-is-why-we-need-to-bind-event-handlers-in-class-components-in-react-f7ea1a6f93eb)
