@@ -22,7 +22,8 @@ class App extends React.Component {
   /* Changing of the component `state` must be done with `setState` method 
   in order for React to re-render the component  */
   clickHandler = () => {
-    this.setState( { clickCount: this.state.clickCount + 1 } )
+    const updatedCount = this.state.clickCount + 1;
+    this.setState({ clickCount: updatedCount });
   }
   
   //  WRONG - We should never change the state directly
